@@ -4,7 +4,7 @@
 
 
 <div align="center" width="100%">
-<img src="https://raw.githubusercontent.com/Processus-Thief/Eset_PsNotifRoutineUnloader/main/poc.png" width="70%;">
+<img src="https://raw.githubusercontent.com/Processus-Thief/Eset_PsNotifRoutineUnloader/main/poc.png" width="90%;">
 </div>
 
 <br /><br />
